@@ -1,4 +1,5 @@
 
+
 # Project Title: Disney+HotStar Data  Analysis 
 # Objective: 
 Provide an in-depth analysis and visualization of a movie dataset to uncover insights and trends in the distribution of movies by genre, running times, release years, age ratings, and other attributes.
@@ -42,4 +43,33 @@ Using insights from the popularity of genres over time, marketing campaigns can 
  Developing marketing campaigns that focus on less common age ratings, such as PG and A, can tap into niche markets and attract a more diverse audience. Highlighting the unique and mature content available can appeal to older demographics.
 
 
+# Type Of Genre
+![Screenshot 2024-08-01 235649](https://github.com/user-attachments/assets/564ae479-eea4-4253-8655-5b83c50cb971)
+
+# Avg Running Time 
+![Screenshot 2024-08-01 235709](https://github.com/user-attachments/assets/c91534be-2810-417f-81cf-f3e9869e2f42)
+
+# Runtime by Movies 
+![Screenshot 2024-08-01 235950](https://github.com/user-attachments/assets/1d635e3b-457f-45bc-a169-e312a3cc050d)
+
+# Top 10 Longest Movies 
+![Screenshot 2024-08-02 000253](https://github.com/user-attachments/assets/1e69fe62-45bc-444c-a58a-f0c251ed98a0)
+
+# Age Rating Distribution
+![Screenshot 2024-08-02 000344](https://github.com/user-attachments/assets/3c703593-ce8a-4b66-a12d-6ee334d2560c)
+
+# Titles Genre and Year 
+![Screenshot 2024-08-02 000432](https://github.com/user-attachments/assets/58407616-9b2e-408e-844f-6cb7882f7414)
+
+# Type of Shows and Movies 
+![Screenshot 2024-08-02 000551](https://github.com/user-attachments/assets/fdfc4c9d-90b0-48bf-b880-101ad785377a)
+
+# Tv shows with Max episodes 
+![Screenshot 2024-08-02 000640](https://github.com/user-attachments/assets/c6580949-2fcd-4d92-a11d-28bc4bba6758)
+
+# Correlation by year and running time 
+![Screenshot 2024-08-02 000822](https://github.com/user-attachments/assets/1f5503eb-3162-4279-b6d3-c902310a51a2)
+
+# Final Dashboard 
+![Screenshot 2024-08-02 001241](https://github.com/user-attachments/assets/5f417b87-ccaf-45b5-b4de-13b6be99d7c6)
 
